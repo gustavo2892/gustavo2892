@@ -1,7 +1,7 @@
 ### Bem-vindo ao meu perfil, me chamo Gustavo, sou desenvolvedor e apaixonado pela área de TI.
 
-- 🔭 Atualmente trabalho como desenvolvedor front-end no Venturus.
-- 🌱 Estou estudando conceitos e melhores formas de aplicar o NextJS.
+- 🔭 Atualmente trabalho como desenvolvedor front-end.
+- 🌱 Estou estudando melhores formas de aplicar IA no dia-a-dia.
 - 📫 Esse é meu email para contato: gustavo2892@gmail.com
 
 <div>

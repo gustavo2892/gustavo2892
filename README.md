@@ -1,8 +1,9 @@
-### Bem-vindo ao meu perfil, me chamo Gustavo, sou desenvolvedor e apaixonado pela área de TI.
+### Welcome to my profile, my name is Gustavo.
 
-- 🔭 Atualmente trabalho como desenvolvedor front-end.
-- 🌱 Estou estudando melhores formas de aplicar IA no dia-a-dia.
-- 📫 Esse é meu email para contato: gustavo2892@gmail.com
+- 🔭 I'm a front-end developer.
+- 🌱 I'm studying better ways to apply AI to software development.
+- 📫 This is my email for contact: gustavo2892@gmail.com
+- 💡 This is my [portfolio](https://devfreitas.vercel.app/pt)
 
 <div>
   <a href="https://github.com/gustavo2892">

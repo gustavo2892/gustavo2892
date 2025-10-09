@@ -2,8 +2,8 @@
 
 - 🔭 I'm a front-end developer.
 - 🌱 I'm studying better ways to apply AI to software development.
-- 📫 This is my email for contact: gustavo2892@gmail.com
-- 💡 This is my [portfolio](https://devfreitas.vercel.app/pt)
+- 📫 This is my email for contact: gustavo2892@gmail.com.
+- 💡 This is my [portfolio](https://devfreitas.vercel.app/pt).
 
 <div>
   <a href="https://github.com/gustavo2892">

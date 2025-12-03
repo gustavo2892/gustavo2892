@@ -5,12 +5,6 @@
 - 📫 This is my email for contact: gustavo2892@gmail.com.
 - 💡 This is my [portfolio](https://devfreitas.vercel.app/pt).
 
-<div>
-  <a href="https://github.com/gustavo2892">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo2892&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo2892&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="gvf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gvf-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
